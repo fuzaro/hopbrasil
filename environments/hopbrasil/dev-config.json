@@ -1,0 +1,47 @@
+{
+  "variables" : [ {
+    "name" : "AMBIENTE",
+    "value" : "dev",
+    "description" : "Variavel AMBIENTE"
+  }, {
+    "name" : "hop_param_user",
+    "value" : "hop",
+    "description" : ""
+  }, {
+    "name" : "hop_param_pass",
+    "value" : "3XhopX3",
+    "description" : ""
+  }, {
+    "name" : "hop_param_db",
+    "value" : "hop",
+    "description" : ""
+  }, {
+    "name" : "hop_param_port",
+    "value" : "5433",
+    "description" : ""
+  }, {
+    "name" : "hop_param_host",
+    "value" : "192.168.15.11",
+    "description" : ""
+  }, {
+    "name" : "hopbrasil_user",
+    "value" : "hopbrasil_user",
+    "description" : ""
+  }, {
+    "name" : "hopbrasil_pass",
+    "value" : "3XhopbrasilX3",
+    "description" : ""
+  }, {
+    "name" : "hopbrasil_db",
+    "value" : "hopbrasil",
+    "description" : ""
+  }, {
+    "name" : "hopbrasil_port",
+    "value" : "5433",
+    "description" : ""
+  }, {
+    "name" : "hopbrasil_host",
+    "value" : "192.168.15.11",
+    "description" : ""
+  } ]
+}
