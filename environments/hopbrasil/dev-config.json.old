@@ -61,7 +61,7 @@
     "description" : ""
   }, {
     "name" : "mongodb_collection",
-    "value" : "regic18",
+    "value" : "",
     "description" : ""
   } ]
 }
