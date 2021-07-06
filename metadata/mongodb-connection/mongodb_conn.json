@@ -1,0 +1,20 @@
+{
+  "authenticationDatabaseName": "",
+  "usingKerberos": false,
+  "journaled": true,
+  "dbName": "${mongodb_db}",
+  "authenticationUser": "",
+  "writeConcern": "",
+  "connectTimeoutMs": "",
+  "usingSslSocketFactory": false,
+  "authenticationPassword": "Encrypted ",
+  "usingAllReplicaSetMembers": false,
+  "replicationTimeoutMs": "",
+  "hostname": "${mongodb_host}",
+  "port": "27017",
+  "socketTimeoutMs": "",
+  "name": "mongodb_conn",
+  "readPreference": "PRIMARY",
+  "readPrefTagSets": "",
+  "authenticationMechanism": "PLAIN"
+}
